@@ -1,2 +1,1 @@
-# admin-jenkins
-jenkins-test
+## 将代码推到 main 分支上时将自动打包
